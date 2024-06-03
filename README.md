@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/um_paba" target="blank"><img src="https://img.shields.io/twitter/follow/um_paba?logo=twitter&style=for-the-badge" alt="um_paba" /></a> </p>
 
+- 🎓 Undergraduate **@SLIIT**
+- 💻 **Data Entry** enthuastic
 - 🌱 I’m currently learning **Python, Data Structures and Algorithms, Mobile Application Development, and Statistics**
 
 - 📫 How to reach me **kpabasara137@gmail.com**
