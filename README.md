@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pabasara Hendawitharana</h1>
-<h3 align="center">A passionate IT and UI/UX enthusiast from Sri Lanka</h3>
+<h3 align="center">An Aspiring Data Scientist and Enthusiastic Web Developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kavindya-pabasara&label=Profile%20views&color=0e75b6&style=flat" alt="kavindya-pabasara" /> </p>
 
